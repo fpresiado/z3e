@@ -1,0 +1,23 @@
+{
+  "domains": [
+    { "id": "sys_arch", "name": "Systems & Architecture", "level": 1 },
+    { "id": "backend", "name": "Backend Engineering", "level": 1 },
+    { "id": "frontend", "name": "Frontend Engineering", "level": 1 },
+    { "id": "mobile", "name": "Mobile Engineering", "level": 1 },
+    { "id": "devops", "name": "DevOps & Infrastructure", "level": 1 },
+    { "id": "security", "name": "Security & Privacy", "level": 1 },
+    { "id": "data", "name": "Data Engineering", "level": 1 },
+    { "id": "ai_llm", "name": "AI/LLM Engineering", "level": 1 },
+    { "id": "testing", "name": "Testing & QA", "level": 1 },
+    { "id": "obs_rel", "name": "Observability & Reliability", "level": 1 },
+    { "id": "prod_ux", "name": "Product & UX", "level": 1 },
+    { "id": "pay_mon", "name": "Payments & Monetization", "level": 1 },
+    { "id": "comp_risk", "name": "Compliance & Risk", "level": 1 },
+    { "id": "perf_scale", "name": "Performance & Scaling", "level": 1 },
+    { "id": "inc_ops", "name": "Incident Response & Operations", "level": 1 },
+    { "id": "doc_km", "name": "Documentation & Knowledge Management", "level": 1 },
+    { "id": "proj_mgmt", "name": "Project Management & Delivery", "level": 1 },
+    { "id": "int_api", "name": "Integrations & APIs", "level": 1 },
+    { "id": "ent_sales", "name": "Enterprise Sales/Deployments", "level": 1 }
+  ]
+}
