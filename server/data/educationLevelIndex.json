@@ -1,0 +1,88 @@
+{
+  "educationLevels": [
+    {
+      "level": 1,
+      "label": "Foundations & Literal Thinking",
+      "description": "Master foundational reasoning and precise language",
+      "curricula": ["foundationalCurriculum", "languagePrecisionCurriculum"],
+      "masteryThreshold": 95
+    },
+    {
+      "level": 2,
+      "label": "Structured Thinking",
+      "description": "Learn to decompose complex problems systematically",
+      "curricula": ["structuredThinkingCurriculum"],
+      "masteryThreshold": 95
+    },
+    {
+      "level": 3,
+      "label": "Algorithmic Thinking & System Boundaries",
+      "description": "Understand algorithms and system boundaries",
+      "curricula": ["algorithmicThinkingCurriculum", "systemBoundariesCurriculum"],
+      "masteryThreshold": 95
+    },
+    {
+      "level": 4,
+      "label": "Data & State Management",
+      "description": "Master data structures and state reasoning",
+      "curricula": ["dataAndStateCurriculum"],
+      "masteryThreshold": 95
+    },
+    {
+      "level": 5,
+      "label": "Testing & Specifications",
+      "description": "Learn test design and specification interpretation",
+      "curricula": ["testDesignCurriculum", "specInterpretationCurriculum"],
+      "masteryThreshold": 95
+    },
+    {
+      "level": 6,
+      "label": "Debugging & Root Cause Analysis",
+      "description": "Master debugging techniques and root cause analysis",
+      "curricula": ["debuggingReasoningCurriculum", "rootCauseCurriculum"],
+      "masteryThreshold": 95
+    },
+    {
+      "level": 7,
+      "label": "Edge Cases & Robustness",
+      "description": "Handle edge cases and optimize performance",
+      "curricula": ["edgeCasesRobustnessCurriculum", "performanceOptimizationCurriculum"],
+      "masteryThreshold": 95
+    },
+    {
+      "level": 8,
+      "label": "Tools, APIs & Constraints",
+      "description": "Master tools, APIs, and constraints reasoning",
+      "curricula": ["toolAndApiReasoningCurriculum", "goalsConstraintsCurriculum"],
+      "masteryThreshold": 95
+    },
+    {
+      "level": 9,
+      "label": "Hypothesis & Experimentation",
+      "description": "Learn experimental design and generalization",
+      "curricula": ["hypothesisExperimentCurriculum", "transferGeneralizationCurriculum"],
+      "masteryThreshold": 95
+    },
+    {
+      "level": 10,
+      "label": "Code Comprehension",
+      "description": "Master code reading and understanding",
+      "curricula": ["codeComprehensionCurriculum"],
+      "masteryThreshold": 95
+    },
+    {
+      "level": 11,
+      "label": "Security, Safety & Honesty",
+      "description": "Learn security principles and cognitive honesty",
+      "curricula": ["securitySafetyCurriculum", "cognitiveHonestyCurriculum"],
+      "masteryThreshold": 95
+    },
+    {
+      "level": 12,
+      "label": "Autonomous Reasoning Mastery",
+      "description": "Synthesize all learning into autonomous reasoning",
+      "curricula": ["foundationalCurriculum"],
+      "masteryThreshold": 98
+    }
+  ]
+}

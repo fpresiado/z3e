@@ -1,0 +1,17 @@
+node_modules/
+dist/
+build/
+logs/
+snapshots/
+.cache/
+.local/
+.upm/
+tmp/
+temp/
+.env
+*.bin
+*.zip
+*.7z
+*.rar
+*.sqlite
+*.db
