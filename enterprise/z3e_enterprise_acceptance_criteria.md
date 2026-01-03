@@ -31,3 +31,10 @@ Phase 2 turns Phase 1 scaffolding into enforceable, auditable gates. Additive-on
 ## Definition of Done (Phase 2)
 - All gates PASS via validator run
 - GAP resolved/documented without hacks
+
+
+## BLOCKER — Canonical Schema Missing
+- `@shared/schema` is required by server code
+- `shared/schema.ts` does not exist
+- Validator hard-fails until schema is authored
+- Phase 3 required to proceed
