@@ -22,3 +22,30 @@ export const attemptHistory = {} as any;
 // Types used in services
 export type BillingRecord = any;
 export type Subscription = any;
+// Additional placeholders required by current server imports
+export const costEstimates = {} as any;
+export const pricingTables = {} as any;
+
+export const deploymentLogs = {} as any;
+export const healthCheckResults = {} as any;
+export const backupRecords = {} as any;
+
+export const developerConversations = {} as any;
+export const developerMessages = {} as any;
+export const programBibles = {} as any;
+
+export const questionDifficulty = {} as any;
+export const learningStreaks = {} as any;
+
+export const securityTokens = {} as any;
+export const tokenAbuseLog = {} as any;
+
+export const activationLinks = {} as any;
+export const onboardingProgress = {} as any;
+
+// Additional types referenced by server imports
+export type CostEstimate = any;
+export type DeploymentLog = any;
+export type HealthCheckResult = any;
+export type SecurityToken = any;
+export type ActivationLink = any;
